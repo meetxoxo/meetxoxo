@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying at National Forensic Sciences University<br>I'm pursuing B.Tech-M.Tech Computer Science and Engineering specialization in Cyber Security<br>I have a strong grasp of logical analysis, logical thinking, and logical reasoning<br>I am good at critical thinking<br>Foundational knowledge of mathematics and physics.
+I'm currently studying at National Forensic Sciences University<br>I'm pursuing B.Tech-M.Tech Computer Science and Engineering specialization in Cyber Security<br>I have a strong grasp of logical analysis, thinking and reasoning<br>I am good at critical thinking<br>Foundational knowledge of mathematics and physics.
 
 
 ## 🌐 Socials:
